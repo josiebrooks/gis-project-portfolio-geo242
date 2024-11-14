@@ -14,3 +14,4 @@ Josie Brooks
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/josiebrooks/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
+- [Educational Attainment For Less Than a High School Degree or Equivalent] (https://github.com/josiebrooks/gis-project-portfolio-geo242/blob/main/Josie_Brooks_week_12_assignment_template.ipynb)
