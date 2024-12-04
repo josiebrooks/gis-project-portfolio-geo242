@@ -17,3 +17,10 @@ Josie Brooks
 
 ## Spatial Analysis
 - [Educational Attainment For Less Than a High School Degree or Equivalent](https://github.com/josiebrooks/gis-project-portfolio-geo242/blob/main/Josie_Brooks_week_12_assignment_template.ipynb)
+- [Spatial Analysis for Raster Data in Oxford Ohio](https://github.com/josiebrooks/gis-project-portfolio-geo242/blob/main/Josie_Brooks_week_09_assignment_template.ipynb)
+
+## ...
+
+## Web-Based Mapping
+
+## Build Sections and Queries
