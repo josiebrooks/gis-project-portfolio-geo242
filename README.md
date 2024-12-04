@@ -15,12 +15,14 @@ Josie Brooks
 
 - [Understanding map coordinates](https://github.com/josiebrooks/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
 
-## Spatial Analysis
+## Spatial Analysis for Census Data
 - [Educational Attainment For Less Than a High School Degree or Equivalent](https://github.com/josiebrooks/gis-project-portfolio-geo242/blob/main/Josie_Brooks_week_12_assignment_template.ipynb)
+
+## Spatial Analysis for Raster Data
 - [Spatial Analysis for Raster Data in Oxford Ohio](https://github.com/josiebrooks/gis-project-portfolio-geo242/blob/main/Josie_Brooks_week_09_assignment_template.ipynb)
 
-## ...
+## Spatial Analysis for Vector Data
+- [John Snow Cholera Breakout Map](https://github.com/josiebrooks/gis-project-portfolio-geo242/blob/main/Josie_Brooks_week_10_assignment_template.ipynb)
 
-## Web-Based Mapping
-
-## Build Sections and Queries
+## Georeferencing 
+- [Changes in Oxford Study](https://github.com/josiebrooks/gis-project-portfolio-geo242/blob/main/Week_4_Assignment.ipynb)
